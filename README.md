@@ -1,6 +1,8 @@
 lizongbo
 ========
+<div align="center">
+<span>  </span>
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=lizongbo" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lizongbo&layout=compact&langs_count=8" />
+<span>  </span>
+</div>
 
-lizongbo's java study
-
-主要是把自己曾经写的java代码片段记录下来，方便以后copy参考可复用。
