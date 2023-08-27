@@ -6,7 +6,3 @@ lizongbo
 <span>  </span>
 </div>
 
-<div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=lizongbo&theme=minimal" />
-</div>
-
